@@ -89,19 +89,6 @@ End-to-end compromise of the "Raven" lab target, completed independently from re
 </details>
 
 <details>
-<summary><b>ITNE-352 — Network Programming Project</b></summary>
-<br/>
-
-Client–server network programming project built for the ITNE 352 course at the University of Bahrain.
-
-| | |
-|:--|:--|
-| **Stack** | Python · Sockets |
-| **Repository** | [MohammedAlansari7/ITNE-352-project](https://github.com/MohammedAlansari7/ITNE-352-project) |
-
-</details>
-
-<details>
 <summary><b>Security Risk Management Plan — ITCY460</b></summary>
 <br/>
 
