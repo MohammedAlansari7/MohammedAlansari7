@@ -10,18 +10,15 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-```yaml
-name: Mohammed Alansari
-location: Bahrain 🇧🇭
-education: B.Sc. Cybersecurity — University of Bahrain (2021 – present)
-focus:
-  - Penetration testing & offensive security
-  - Web application security (OWASP Top 10)
-  - Network security & secure software development
-daily_driver: Arch Linux + Hyprland
-```
+Hey, I'm Mohammed 👋
 
-I'm a cybersecurity student who learns by breaking things in labs and building tools that find weaknesses before attackers do. My work spans hands-on penetration testing, web vulnerability scanning, network programming, wireless security and security risk management.
+Final-year cybersecurity student at the University of Bahrain. Most of what I know I picked up in labs: TryHackMe rooms, pentest boxes, and breaking things on my own setup to see how they work.
+
+Right now I'm building a web vulnerability scanner in Flask for my graduation project, and working toward the eJPT.
+
+- 📍 Bahrain
+- 🔐 Into pentesting and web security
+- 🐧 Daily driver: Arch + Hyprland (yes, I spend too long on my configs)
 
 ---
 
