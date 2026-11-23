@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:6D28D9&height=180&section=header&text=Mohammed%20Alansari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Penetration%20Testing%20%E2%80%A2%20Secure%20Development&descAlignY=58&descSize=16" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:7F1D1D,100:B91C1C&height=180&section=header&text=Mohammed%20Alansari&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Cybersecurity%20%E2%80%A2%20Penetration%20Testing%20%E2%80%A2%20Secure%20Development&descAlignY=58&descSize=16" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%40+University+of+Bahrain;Penetration+Testing+%26+Web+Security;Building+tools+to+find+what+others+miss" alt="typing" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=EF4444&center=true&vCenter=true&width=600&lines=Cybersecurity+Student+%40+University+of+Bahrain;Penetration+Testing+%26+Web+Security;Building+tools+to+find+what+others+miss" alt="typing" /></a>
 
 </div>
 
@@ -29,11 +29,11 @@ Right now I'm building a web vulnerability scanner in Flask for my graduation pr
 **Offensive Security**
 
 <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-4F46E5?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/Hydra-6D28D9?style=for-the-badge&logo=hackthebox&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-7F1D1D?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+<img src="https://img.shields.io/badge/Hydra-B91C1C?style=for-the-badge&logo=hackthebox&logoColor=white" />
 <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/OSINT-7C3AED?style=for-the-badge&logo=searxng&logoColor=white" />
+<img src="https://img.shields.io/badge/OSINT-DC2626?style=for-the-badge&logo=searxng&logoColor=white" />
 
 **Languages & Development**
 
@@ -131,10 +131,10 @@ A full Risk Management Plan for a simulated organization: asset identification, 
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammedAlansari7&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=A855F7&icon_color=7C3AED&text_color=ffffff&hide_border=true" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlansari7&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=A855F7&text_color=ffffff&hide_border=true" alt="top langs" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=MohammedAlansari7&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=EF4444&icon_color=DC2626&text_color=ffffff&hide_border=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammedAlansari7&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=EF4444&text_color=ffffff&hide_border=true" alt="top langs" />
 
-<img width="100%" src="https://activity-graph.vercel.app/graph?username=MohammedAlansari7&bg_color=0D1117&color=A855F7&line=7C3AED&point=ffffff&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Graph" alt="activity-graph" />
+<img width="100%" src="https://activity-graph.vercel.app/graph?username=MohammedAlansari7&bg_color=0D1117&color=EF4444&line=DC2626&point=ffffff&area=true&area_color=B91C1C&hide_border=true&custom_title=Contribution%20Graph" alt="activity-graph" />
 
 </div>
 
@@ -178,7 +178,7 @@ open_to:
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/mohammed-alansari-864b563a8"><img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<a href="https://www.linkedin.com/in/mohammed-alansari-864b563a8"><img src="https://img.shields.io/badge/LinkedIn-7F1D1D?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://github.com/MohammedAlansari7"><img src="https://img.shields.io/badge/GitHub-1A1B27?style=for-the-badge&logo=github&logoColor=white" alt="github" /></a>
 
 </div>
@@ -189,6 +189,6 @@ open_to:
 
 > *"Think like an attacker, build like a defender."*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:6D28D9&height=140&section=footer" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:450A0A,50:7F1D1D,100:B91C1C&height=140&section=footer" alt="footer" />
 
 </div>
