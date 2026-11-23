@@ -10,15 +10,15 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
-Hey, I'm Mohammed 👋
+Hey, I'm Mohammed.
 
 Final-year cybersecurity student at the University of Bahrain. Most of what I know I picked up in labs: TryHackMe rooms, pentest boxes, and breaking things on my own setup to see how they work.
 
 Right now I'm building a web vulnerability scanner in Flask for my graduation project, and working toward the eJPT.
 
-- 📍 Bahrain
-- 🔐 Into pentesting and web security
-- 🐧 Daily driver: Arch + Hyprland (yes, I spend too long on my configs)
+- Based in Bahrain
+- Into pentesting and web security
+- Daily driver: Arch + Hyprland (yes, I spend too long on my configs)
 
 ---
 
@@ -59,7 +59,7 @@ Right now I'm building a web vulnerability scanner in Flask for my graduation pr
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Featured Projects
 
 <details open>
-<summary><b>🛡️ Web Vulnerability Scanner — Graduation Project</b></summary>
+<summary><b>Web Vulnerability Scanner — Graduation Project</b></summary>
 <br/>
 
 A web application vulnerability scanner that tests target sites against the **OWASP Top 10** and reports findings in a clear, actionable dashboard.
@@ -74,7 +74,7 @@ A web application vulnerability scanner that tests target sites against the **OW
 </details>
 
 <details>
-<summary><b>🐦 Raven — SSH Penetration Testing Lab</b></summary>
+<summary><b>Raven — SSH Penetration Testing Lab</b></summary>
 <br/>
 
 End-to-end compromise of the "Raven" lab target, completed independently from recon to access.
@@ -88,7 +88,7 @@ End-to-end compromise of the "Raven" lab target, completed independently from re
 </details>
 
 <details>
-<summary><b>🌐 ITNE-352 — Network Programming Project</b></summary>
+<summary><b>ITNE-352 — Network Programming Project</b></summary>
 <br/>
 
 Client–server network programming project built for the ITNE 352 course at the University of Bahrain.
@@ -101,7 +101,7 @@ Client–server network programming project built for the ITNE 352 course at the
 </details>
 
 <details>
-<summary><b>📋 Security Risk Management Plan — ITCY460</b></summary>
+<summary><b>Security Risk Management Plan — ITCY460</b></summary>
 <br/>
 
 A full Risk Management Plan for a simulated organization: asset identification, threat and vulnerability analysis, risk scoring and treatment strategies.
@@ -119,11 +119,11 @@ A full Risk Management Plan for a simulated organization: asset identification, 
 
 | Certification / Path | Status |
 |:--|:--|
-| Secure Software Development — Packt (Coursera) | ✅ Completed |
-| Fortinet NSE 1 — Network Security Associate | 🟣 In progress |
-| TryHackMe — Cyber Security 101 | 🟣 In progress |
-| eJPT — Junior Penetration Tester | 🎯 Planned |
-| ISC2 Certified in Cybersecurity (CC) | 🎯 Planned |
+| Secure Software Development — Packt (Coursera) | Completed |
+| Fortinet NSE 1 — Network Security Associate | In progress |
+| TryHackMe — Cyber Security 101 | In progress |
+| eJPT — Junior Penetration Tester | Planned |
+| ISC2 Certified in Cybersecurity (CC) | Planned |
 
 ---
 
